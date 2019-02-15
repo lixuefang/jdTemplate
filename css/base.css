@@ -40,7 +40,12 @@ img,input {
     clear: both;
 }
 
-.w {
+.w_login {
     width: 980px;
     margin: 0 auto;
+}
+
+.w {
+   width: 1190px;
+   margin: 0 auto;
 }
